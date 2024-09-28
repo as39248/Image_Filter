@@ -1,19 +1,4 @@
-Table of Contents
-1. Learning Objectives
-2. Introduction
-3. Preparation
-3.1. Starter code overview
-4. General C code guidelines
-5. Part 1: Image filters
-5.1. Bitmap file format
-5.1.1. Suggestion
-5.2. Image filter structure
-5.3. Individual pixel filters: copy and greyscale
-5.4. Basic image convolutions: gaussian_blur and edge_detection
-5.5. Scaling
-5.5.1. Suggestion
-6. Part 2: Managing multiple filter processes
-7. Submission
+
 1. Learning Objectives
 At the end of this assignment students will be able to
 
